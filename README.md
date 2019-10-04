@@ -1,2 +1,2 @@
 # CMS-1.2
- CMS system for simple website creation
+ CMS system for simple website development
